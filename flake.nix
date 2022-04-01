@@ -1,5 +1,5 @@
 {
-  inputs.dream2nix.url = "github:yusdacra/dream2nix/fix/rust-discoverer";
+  inputs.dream2nix.url = "github:nix-community/dream2nix/f7c034d4eee5d3cf8df4baaad59e715a0cf24db7";
   outputs = { self, dream2nix }@inputs:
     let
       dream2nix = inputs.dream2nix.lib.init {
@@ -8,6 +8,7 @@
         config.projectRoot = ./. ;
       };
     in dream2nix.makeFlakeOutputs {
+      pname = "test";
       source = ./.;
     };
 }

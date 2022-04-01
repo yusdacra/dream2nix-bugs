@@ -51,17 +51,17 @@
         "pre-commit-hooks": "pre-commit-hooks"
       },
       "locked": {
-        "lastModified": 1648842063,
-        "narHash": "sha256-9EF3wHY6EHCywPqsahlyUd++yAQI+0G6dZGgKagxgJo=",
-        "owner": "yusdacra",
+        "lastModified": 1648394205,
+        "narHash": "sha256-eR+9A0NryKXnDYHZNzOcgqIrbwC5W3KqQxctOUOVlCw=",
+        "owner": "nix-community",
         "repo": "dream2nix",
-        "rev": "ca6d145e972141f9c08050f0c713163bfc00afb2",
+        "rev": "f7c034d4eee5d3cf8df4baaad59e715a0cf24db7",
         "type": "github"
       },
       "original": {
-        "owner": "yusdacra",
-        "ref": "fix/rust-discoverer",
+        "owner": "nix-community",
         "repo": "dream2nix",
+        "rev": "f7c034d4eee5d3cf8df4baaad59e715a0cf24db7",
         "type": "github"
       }
     },

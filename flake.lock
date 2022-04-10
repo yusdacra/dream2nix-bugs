@@ -51,8 +51,8 @@
         "pre-commit-hooks": "pre-commit-hooks"
       },
       "locked": {
-        "lastModified": 1649600616,
-        "narHash": "sha256-htTqpTo8jGnQ13apyfNaZ67R9L+iWn3s+99dy7EOjeM=",
+        "lastModified": 1649602489,
+        "narHash": "sha256-w223FlqORAIpUquAIxpj7EnKpmNTiIzAmXKBQEZhLc8=",
         "path": "/home/patriot/Belgeler/projects/dream2nix",
         "type": "path"
       },

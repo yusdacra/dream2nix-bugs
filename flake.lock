@@ -51,14 +51,18 @@
         "pre-commit-hooks": "pre-commit-hooks"
       },
       "locked": {
-        "lastModified": 1649602489,
-        "narHash": "sha256-w223FlqORAIpUquAIxpj7EnKpmNTiIzAmXKBQEZhLc8=",
-        "path": "/home/patriot/Belgeler/projects/dream2nix",
-        "type": "path"
+        "lastModified": 1649734189,
+        "narHash": "sha256-v9uzAYTwXTkrenkI/x0vEm/6Jbt2ceXHjVcTEhhc6l0=",
+        "owner": "yusdacra",
+        "repo": "dream2nix",
+        "rev": "07c7d7d2dc3fa90ffc9c3d9530a1082757374f67",
+        "type": "github"
       },
       "original": {
-        "path": "/home/patriot/Belgeler/projects/dream2nix",
-        "type": "path"
+        "owner": "yusdacra",
+        "ref": "feat/cargo-lock-subpackages",
+        "repo": "dream2nix",
+        "type": "github"
       }
     },
     "flake-utils-pre-commit": {
